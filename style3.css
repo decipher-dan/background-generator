@@ -1,0 +1,19 @@
+body{
+	align-items: center;
+	justify-content: center;
+	background: linear-gradient(to right, #b34100, #680163);
+	justify-self: center;
+}
+#color1{
+	justify-self: center;
+}
+
+p{
+	justify-content: center;
+}
+
+#count{
+	padding-top: 20px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	text-transform: uppercase;
+}
